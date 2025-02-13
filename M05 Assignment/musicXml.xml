@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Title>Lollipop</Title>
+    <Artist>Lil Wayne</Artist>
+    <Album>Tha Carter III</Album>
+    <Year>2008</Year>
+    <Genre>Hip-Hop</Genre>
+    <Duration>4:59</Duration>
+  </row>
+  <row>
+    <index>1</index>
+    <Title>reincarnated</Title>
+    <Artist>Kendrick Lamar</Artist>
+    <Album>GNX</Album>
+    <Year>2024</Year>
+    <Genre>Rap</Genre>
+    <Duration>4:35</Duration>
+  </row>
+  <row>
+    <index>2</index>
+    <Title>Days Off</Title>
+    <Artist>Lil Baby</Artist>
+    <Album>Perfect Timing</Album>
+    <Year>2017</Year>
+    <Genre>Rap</Genre>
+    <Duration>3:03</Duration>
+  </row>
+  <row>
+    <index>3</index>
+    <Title>Rockstar</Title>
+    <Artist>Nickelback</Artist>
+    <Album>All the Right Reasons</Album>
+    <Year>2005</Year>
+    <Genre>Rock</Genre>
+    <Duration>4:12</Duration>
+  </row>
+  <row>
+    <index>4</index>
+    <Title>Beat It</Title>
+    <Artist>Michael Jackson</Artist>
+    <Album>Thriller</Album>
+    <Year>1982</Year>
+    <Genre>Hard Rock</Genre>
+    <Duration>4:18</Duration>
+  </row>
+  <row>
+    <index>5</index>
+    <Title>Annihilate </Title>
+    <Artist>Metro Booming</Artist>
+    <Album>METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)</Album>
+    <Year>2023</Year>
+    <Genre>Hip-Hop</Genre>
+    <Duration>3:52</Duration>
+  </row>
+  <row>
+    <index>6</index>
+    <Title>Cozy Forver</Title>
+    <Artist>Kembe X</Artist>
+    <Album>Cozy Forever</Album>
+    <Year>2021</Year>
+    <Genre>Rap</Genre>
+    <Duration>2:25</Duration>
+  </row>
+  <row>
+    <index>7</index>
+    <Title>Warning</Title>
+    <Artist>Morgan Wallen</Artist>
+    <Album> Dangerous: The Double Album</Album>
+    <Year>2021</Year>
+    <Genre>Country</Genre>
+    <Duration>2:36</Duration>
+  </row>
+  <row>
+    <index>8</index>
+    <Title>Rock Wit U (Awww Baby)</Title>
+    <Artist>Ashanti</Artist>
+    <Album>Chapter II</Album>
+    <Year>2003</Year>
+    <Genre>R&amp;B</Genre>
+    <Duration>3:29</Duration>
+  </row>
+  <row>
+    <index>9</index>
+    <Title>Jump Off</Title>
+    <Artist>Nic.</Artist>
+    <Album>eye still been making music</Album>
+    <Year>2023</Year>
+    <Genre>Rap</Genre>
+    <Duration>3:41</Duration>
+  </row>
+</data>
