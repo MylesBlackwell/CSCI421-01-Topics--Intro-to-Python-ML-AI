@@ -1,11 +1,11 @@
-Title,Artist,Album,Year,Genre,Duration
-Lollipop,Lil Wayne,Tha Carter III,2008,Hip-Hop,4:59
-reincarnated,Kendrick Lamar,GNX,2024,Rap,4:35
-Days Off,Lil Baby,Perfect Timing,2017,Rap,3:03
-Rockstar,Nickelback,All the Right Reasons,2005,Rock,4:12
-Beat It,Michael Jackson,Thriller,1982,Hard Rock,4:18
-Annihilate ,Metro Booming,METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION),2023,Hip-Hop,3:52
-Cozy Forver,Kembe X,Cozy Forever,2021,Rap,2:25
-Warning,Morgan Wallen, Dangerous: The Double Album,2021,Country,2:36
-Rock Wit U (Awww Baby),Ashanti,Chapter II,2003,R&B,3:29
-Jump Off,Nic.,eye still been making music,2023,Rap,3:41
+Title,Artist,Album,Year,Genre,Duration_seconds
+Lollipop,Lil Wayne,Tha Carter III,2008,Hip-Hop,299
+reincarnated,Kendrick Lamar,GNX,2024,Rap,275
+Days Off,Lil Baby,Perfect Timing,2017,Rap,183
+Rockstar,Nickelback,All the Right Reasons,2005,Rock,252
+Beat It,Michael Jackson,Thriller,1982,Hard Rock,258
+Annihilate ,Metro Booming,METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION),2023,Hip-Hop,232
+Cozy Forver,Kembe X,Cozy Forever,2021,Rap,145
+Warning,Morgan Wallen, Dangerous: The Double Album,2021,Country,156
+Rock Wit U (Awww Baby),Ashanti,Chapter II,2003,R&B,209
+Jump Off,Nic.,eye still been making music,2023,Rap,221
