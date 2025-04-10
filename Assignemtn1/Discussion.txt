@@ -1,0 +1,11 @@
+Part 1
+1) TTS language and accents was very smooth. However it did to me sound like an american was speaking the language.
+2) The first benfit of TTS technology that I see is video edititng and virtual assitants
+
+Part 2
+1) I performed it in a controlled enviroment but I know in an unctrolled enviroment it makes signifigantly more mistakes
+2) The biggest challenge of automated speech recognition is the different dielects of the language. I know places in my own city where it is different.
+
+Part 3
+1) It worked very well. The sentenced I tried had no errors.
+2) Certain words in different languages have not natural sounds. 
