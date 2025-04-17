@@ -8,11 +8,21 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.utils import to_categorical
 from sklearn.metrics import classification_report
+import glob
 
-df = pd.read_csv("DAT_MT_EURUSD_M1_2024.csv")
+
+dfFile = file_paths = glob.glob("data/*.csv")
+
+dfList = [pd.read_csv(file, parse_dates=['time']) for file in file_paths]
+
+df = pd.concat(dfList)
 
 #combine Date and time
-df['time'] = pd.to_datetime(df['date'] + ' ' + df['time'])
+df['time'] = pd.to_datetime(
+    df['date'].astype(str) + ' ' + df['time'].astype(str),
+    format='%Y-%m-%d %H:%M:%S'  # Adjust if your format is different
+)
+
 
 #Gits Rid of the date 
 df.drop(columns=['date'], inplace=True)
@@ -25,8 +35,8 @@ df.set_index('time', inplace=True)
 df = ta.add_all_ta_features(df, open="open", high="high", low="low", close="close", volume="volume", fillna=True)
 
 #How far I want it to see ahead and how much movement in order to trigure something
-future_window = 30  # minutes ahead
-threshold = 0.0015  # 25 pips threshold (0.25%)
+future_window = 15  # minutes ahead
+threshold = 0.0020  # 25 pips threshold (0.25%)
 
 #Get the return value
 df['future_return'] = (df['close'].shift(-future_window) - df['close']) / df['close']
